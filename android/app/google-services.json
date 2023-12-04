@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272312970756",
+    "project_id": "moviemagic-73289",
+    "storage_bucket": "moviemagic-73289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272312970756:android:07c34c535919aa0f46cf51",
+        "android_client_info": {
+          "package_name": "com.example.movie_magic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NpN5goChkG4AGmAEaCRvQEm492dSKOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
