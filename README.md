@@ -11,12 +11,16 @@
 
 ## Technology:
 Frontend: Flutter
+
 Backend: Dart
+
 Database: PostgreSQL (GCP)
 
 ## Authors
 
 Created by: Hans Chaudry, Ali Faiyaz, Ashok Surujdeo, Ashdeep Singh, Youssef Elshabasy
+
 Frontend: Hans Chaudry, Ali Faiyaz, Ashok Surujdeo
+
 Backend/Database: Ashdeep Singh, Youssef Elshabasy
 
