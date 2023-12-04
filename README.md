@@ -1,13 +1,12 @@
 # Movie Magic 
 
-## Description
-- Movie Magic transforms the movie-watching experience by providing a one-stop platform for users to explore, assess, and organize their cinematic interests with ease. Whether it’s finding the latest releases, planning for upcoming favorites, or managing a watchlist, Movie Magic app caters to the diverse needs of movie enthusiasts, and amateurs
+Welcome to Movie Magic – the ultimate platform for transforming your movie-watching experience! This app has been designed with the goal of providing a one-stop solution for users to seamlessly explore, assess, and organize their cinematic interests. Whether you're a seasoned movie enthusiast or a casual viewer, Movie Magic caters to the diverse needs of all users.
 
-## To run the app
-- Must have Flutter downloaded on your computer.
-- Navigate to the directory of this project 
-- Open an emulator in either IOS or Android device 
-- Run the command 'flutter run"
+Built using Dart and the Flutter Framework, the site offers a modern and responsive design. Users can search through our catalogue of movies by interacting with tabs on our home page, or be searching for movies directly. If a user chooses to, they can save/favorite a movie which is stored on their profile to be viewed later. 
+
+Movie Magic pulls Movie Data from the [TBDI](https://www.themoviedb.org/?language=en-US) API. API calls are made in Dart which serves as the backend in our application, handling all API calls and making them servable to our users. 
+
+User data - name, email, saved movies - are stored in a Google Cloud PostgreDB instance. 
 
 ## Technology:
 Frontend: Flutter
