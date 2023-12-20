@@ -17,6 +17,8 @@ Database: PostgreSQL (GCP)
 
 Version Control: GitLab/Git
 
+Design: Figma
+
 ## Authors: 
 
 Collaborators: Hans Chaudry, Ali Faiyaz, Ashok Surujdeo, Ashdeep Singh, Youssef Elshabasy
