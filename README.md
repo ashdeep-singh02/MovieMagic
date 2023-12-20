@@ -1,4 +1,4 @@
-# Movie Magic 📽
+# Movie Magic 📽🪄
 
 Welcome to Movie Magic – the ultimate platform for transforming your movie-watching experience! This app has been designed with the goal of providing a one-stop solution for users to seamlessly explore, assess, and organize their cinematic interests. Whether you're a seasoned movie enthusiast or a casual viewer, Movie Magic caters to the diverse needs of all users.
 
