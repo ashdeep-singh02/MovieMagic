@@ -33,12 +33,12 @@ flutter run
 ```
 
 ## Images: 
-
-![Screenshot 2023-12-19 at 8 33 37 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/3c4d39b2-d1cc-46c0-9ce7-d20faaa988aa)
-
-![Screenshot 2023-12-19 at 8 34 50 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/3dca1eb2-0757-4a24-bbd9-2df57566bd03)
-
-![Screenshot 2023-12-19 at 8 35 41 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/cf43c905-9b18-4b2a-8a35-06d6bc826b7c)
+<img width="300" alt="290971318-1cf7ed89-2681-4c5c-8dba-5f8aa193416f" src="https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/c9fa9cae-fe9d-45a2-938b-f597e9463296">
+<img width="300" alt="290971616-8688c3e4-fedd-4304-b283-8ae22200a603" src="https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/61592015-48ae-4e42-8241-dec8fceb87ab">
+<img width="300" alt="290971334-90f86499-af6a-418c-9e3f-879b63f8e19f" src="https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/cfcf645c-3d81-4171-afdd-732c58a49ffa">
+<img width="300" alt="290970773-3e84fdb8-6646-414a-973d-f6d38e3e4fc0" src="https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/f323379a-e3b5-4b2a-b8ff-ed67ffb3524d">
+<img width="300" alt="290970795-d937e7ea-91e2-4552-bc7e-19ba4e66145c" src="https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/e7ee2ebd-f138-48b0-be40-08634ebab02f">
+<img width="300" alt="290971278-28382a4d-acd1-414e-a776-afeba1cbe577" src="https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/06e8f6b3-ecdd-4e23-b18e-779e33f61c98">
 
 
 
