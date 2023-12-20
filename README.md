@@ -23,7 +23,7 @@ Frontend: Hans Chaudry, Ali Faiyaz, Ashok Surujdeo
 
 Backend/Database: Ashdeep Singh, Youssef Elshabasy
 
-## Screenshots: 
+## Images: 
 
 ![Screenshot 2023-12-19 at 8 33 37 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/3c4d39b2-d1cc-46c0-9ce7-d20faaa988aa)
 
