@@ -15,6 +15,8 @@ Backend: Dart
 
 Database: PostgreSQL (GCP)
 
+Version Control: GitLab/Git
+
 ## Authors: 
 
 Collaborators: Hans Chaudry, Ali Faiyaz, Ashok Surujdeo, Ashdeep Singh, Youssef Elshabasy
