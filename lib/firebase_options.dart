@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCStTxRExqOUaokdhBfFkrrzcZy_ypb9nI',
-    appId: '1:272312970756:web:e520d4e66155e5e846cf51',
-    messagingSenderId: '272312970756',
-    projectId: 'moviemagic-73289',
-    authDomain: 'moviemagic-73289.firebaseapp.com',
-    storageBucket: 'moviemagic-73289.appspot.com',
-    measurementId: 'G-FD6349GHR1',
+    apiKey: '...',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    authDomain: '...',
+    storageBucket: '...',
+    measurementId: '...',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC0NpN5goChkG4AGmAEaCRvQEm492dSKOI',
-    appId: '1:272312970756:android:07c34c535919aa0f46cf51',
-    messagingSenderId: '272312970756',
-    projectId: 'moviemagic-73289',
-    storageBucket: 'moviemagic-73289.appspot.com',
+    apiKey: '',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    storageBucket: '...',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA0y75zFxicD28PM2altbM4tIfjerA8-CM',
-    appId: '1:272312970756:ios:801bbbf323b02e6346cf51',
-    messagingSenderId: '272312970756',
-    projectId: 'moviemagic-73289',
-    storageBucket: 'moviemagic-73289.appspot.com',
-    iosBundleId: 'com.example.movieMagic',
+    apiKey: '...',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    storageBucket: '...',
+    iosBundleId: '...',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA0y75zFxicD28PM2altbM4tIfjerA8-CM',
-    appId: '1:272312970756:ios:5ab7b1793dc4e42c46cf51',
-    messagingSenderId: '272312970756',
-    projectId: 'moviemagic-73289',
-    storageBucket: 'moviemagic-73289.appspot.com',
-    iosBundleId: 'com.example.movieMagic.RunnerTests',
+    apiKey: '...',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    storageBucket: '...',
+    iosBundleId: '...',
   );
 }

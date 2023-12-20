@@ -5,15 +5,14 @@ import 'package:crypt/crypt.dart';
 
 //API CALLS
 
-const _apiKey =
-    'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYmM4NTFiZDNmMjQ3MjFjNzVhNTE0NWRlYjkzYzllOCIsInN1YiI6IjY1NGQ0NGMzNjdiNjEzMDBjODRhM2YwNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Vs8nAKbcwB0gN32LiC7RrWBTNVhFa9riDFWdXb0ya9I'; // Replace with your actual API key
+const _apiKey = '...'; // Replace with your actual API key
 
 dynamic _endPoint = Endpoint(
-  host: '34.150.136.177',
-  port: 5432,
-  password: r"*4su3FMdAT_S5gp'",
-  username: 'postgres',
-  database: 'MovieMagic',
+  host: '...',
+  port: 0,
+  password: r"...",
+  username: '...',
+  database: '...',
 );
 
 enum MovieFilter {
@@ -38,7 +37,7 @@ Future<dynamic> searchMovies(String searchQuery) async {
     'method': 'GET',
     'headers': {
       'accept': 'application/json',
-      'Authorization': 'Bearer $_apiKey',
+      'Authorization': '...',
     }
   };
 
@@ -59,7 +58,7 @@ Future<dynamic> fetchMoviesByFilter(MovieFilter movieFilter,
 
   const headers = {
     'accept': 'application/json',
-    'Authorization': 'Bearer $_apiKey',
+    'Authorization': '...',
   };
 
   try {
@@ -81,7 +80,7 @@ Future<dynamic> fetchMovieDetails(int movieId) async {
 
   const headers = {
     'accept': 'application/json',
-    'Authorization': 'Bearer $_apiKey',
+    'Authorization': '...',
   };
 
   try {
@@ -106,8 +105,7 @@ Future<Map<String, dynamic>> fetchMovieReviews(int movieId) async {
     'method': 'GET',
     'headers': {
       'accept': 'application/json',
-      'Authorization':
-          'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYmM4NTFiZDNmMjQ3MjFjNzVhNTE0NWRlYjkzYzllOCIsInN1YiI6IjY1NGQ0NGMzNjdiNjEzMDBjODRhM2YwNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Vs8nAKbcwB0gN32LiC7RrWBTNVhFa9riDFWdXb0ya9I'
+      'Authorization': '...' //API KEY
     }
   };
 
