@@ -15,11 +15,22 @@ Backend: Dart
 
 Database: PostgreSQL (GCP)
 
-## Authors
+## Authors: 
 
 Collaborators: Hans Chaudry, Ali Faiyaz, Ashok Surujdeo, Ashdeep Singh, Youssef Elshabasy
 
 Frontend: Hans Chaudry, Ali Faiyaz, Ashok Surujdeo
 
 Backend/Database: Ashdeep Singh, Youssef Elshabasy
+
+## Screenshots: 
+
+![Screenshot 2023-12-19 at 8 33 37 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/3c4d39b2-d1cc-46c0-9ce7-d20faaa988aa)
+
+![Screenshot 2023-12-19 at 8 34 50 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/3dca1eb2-0757-4a24-bbd9-2df57566bd03)
+
+![Screenshot 2023-12-19 at 8 32 20 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/162ab7e9-75b8-44e1-a2fe-54994e22805e)
+
+
+
 
