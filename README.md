@@ -29,8 +29,7 @@ Backend/Database: Ashdeep Singh, Youssef Elshabasy
 
 ![Screenshot 2023-12-19 at 8 34 50 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/3dca1eb2-0757-4a24-bbd9-2df57566bd03)
 
-![Screenshot 2023-12-19 at 8 32 20 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/162ab7e9-75b8-44e1-a2fe-54994e22805e)
-
+![Screenshot 2023-12-19 at 8 35 41 PM](https://github.com/ashdeep-singh02/MovieMagic/assets/71999538/cf43c905-9b18-4b2a-8a35-06d6bc826b7c)
 
 
 
